@@ -1,0 +1,30 @@
+{
+  "name": "style_respository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vite --host",
+    "bulid": "vite bulid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1150xi/style_respository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1150xi/style_respository/issues"
+  },
+  "homepage": "https://github.com/1150xi/style_respository#readme",
+  "dependencies": {
+    "sass": "^1.43.4",
+    "vue": "^2.6.14",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "devDependencies": {
+    "vite": "^2.6.13",
+    "vite-plugin-vue2": "^1.9.0"
+  }
+}
